@@ -1,4 +1,4 @@
-# cloud-service
+# spring-cloud-service
 ## 2018.04.07 添加阿里云文件存储oss，重构文件中心上传代码
 ## 2018.04.09
 1. 添加通知中心notification-center，引入阿里云短信，发送短信验证码
